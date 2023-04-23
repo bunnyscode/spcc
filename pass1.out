@@ -1,0 +1,12 @@
+Program	LC	Intermediate Code
+	0	START 501
+	1	A DS
+	2	B DS
+	3	C DS
+	4	READ A
+	5	READ B
+	6	MOVER AREG,
+	7	ADD AREG,
+	8	MOVEM AREG,
+	9	PRINT C
+	10	END 
